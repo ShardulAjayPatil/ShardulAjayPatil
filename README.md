@@ -1,29 +1,60 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Shardul Patil</h1>
-<h3 align="center">Python Developer | Data Analyst | Data Scientist</h3>
+# Shardul Patil
 
-- 💬 Ask me about **Python**
+### Bhopal, MP | [shanushardul@gmail.com](mailto:shanushardul@gmail.com) | +91 8223029505 | [LinkedIn](https://linkedin.com/patilshardul)
 
-- 📫 How to reach me **shanushardul@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 👋 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+Hi! I'm Shardul Patil, a passionate **Software Engineer** and **Python Developer** with hands-on experience in full-stack development, automation, and deployment. I thrive on solving complex problems and writing efficient, scalable code. I specialize in Python frameworks like **Django** and **Flask**, and I love to explore new technologies that can streamline processes and improve performance.
 
-<!--
-**ShardulAjayPatil/ShardulAjayPatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I'm based in **Bhopal, MP**, and I’ve had the opportunity to work on some exciting projects as part of my journey in the software industry.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+**Bachelor of Engineering** in **Electronics and Telecommunication**  
+Pune University, Pune, MH  
+**July 2018 - May 2022**
+
+---
+
+## 💼 Experience
+
+**Software Engineer**  
+*Ace Software Solutions*  
+Mumbai, MH | **March 2023 - March 2024**
+
+- Designed, developed, tested, and maintained efficient Python code using the Django framework.
+- Actively managed the codebase using **Git** and collaborated with teams to ensure smooth development workflows.
+- Deployed and implemented multiple project modules, including comprehensive end-to-end testing in live production environments.
+- Automated Oracle database script installations and monitored server processes using cron jobs and shell scripts to ensure high reliability.
+
+**Intern Software Engineer**  
+*Cravita Technologies*  
+Pune, MH | **August 2022 - January 2023**
+
+- Contributed to Python-centric projects across the software development life cycle.
+- Gained extensive experience in Python module deployment, testing, and live production environment integration.
+
+---
+
+## 🛠 Skills
+
+- **Core Programming:** Python (Expert), SQL (Advanced), JavaScript (Intermediate), Bash (Intermediate)
+- **Frameworks & Libraries:** Django (Expert), Flask (Expert), FastAPI (Basic), Pandas (Advanced), NumPy (Advanced)
+- **Development Tools:** Git (Expert), Docker (Advanced), Selenium (Intermediate), JIRA (Advanced)
+- **Databases & Cloud Services:** MySQL (Advanced), MongoDB (Intermediate), AWS (Basic)
+
+---
+
+## 🚀 Projects
+
+*(Coming Soon)*
+
+---
+
+Feel free to reach out to me via [email](mailto:shanushardul@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/patilshardul).
+
+Thanks for visiting my profile!
