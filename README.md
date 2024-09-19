@@ -12,11 +12,24 @@ Currently, I'm based in **Bhopal, MP**, and I’ve had the opportunity to work o
 
 ---
 
+## 🛠 Skills
+
+- **Core Programming:** Python (Expert), SQL (Advanced), JavaScript (Intermediate), Bash (Intermediate)
+- **Frameworks & Libraries:** Django (Expert), Flask (Expert), FastAPI (Basic), Pandas (Advanced), NumPy (Advanced)
+- **Development Tools:** Git (Expert), Docker (Advanced), Selenium (Intermediate), JIRA (Advanced)
+- **Databases & Cloud Services:** MySQL (Advanced), MongoDB (Intermediate), AWS (Basic)
+
+---
+
 ## 🎓 Education
 
 **Bachelor of Engineering** in **Electronics and Telecommunication**  
 Pune University, Pune, MH  
 **July 2018 - May 2022**
+
+**Higher Secondary School** in **Science**  
+Central Board Of Secondary Education, Bhopal, MP  
+**April 2016 - May 2018**
 
 ---
 
@@ -37,15 +50,6 @@ Pune, MH | **August 2022 - January 2023**
 
 - Contributed to Python-centric projects across the software development life cycle.
 - Gained extensive experience in Python module deployment, testing, and live production environment integration.
-
----
-
-## 🛠 Skills
-
-- **Core Programming:** Python (Expert), SQL (Advanced), JavaScript (Intermediate), Bash (Intermediate)
-- **Frameworks & Libraries:** Django (Expert), Flask (Expert), FastAPI (Basic), Pandas (Advanced), NumPy (Advanced)
-- **Development Tools:** Git (Expert), Docker (Advanced), Selenium (Intermediate), JIRA (Advanced)
-- **Databases & Cloud Services:** MySQL (Advanced), MongoDB (Intermediate), AWS (Basic)
 
 ---
 
