@@ -9,8 +9,7 @@ Bhopal, Madhya Pradesh, India – 462023
 
 ## Summary
 
-Dedicated Insights-Driven Analyst with over 1.5 years of specialized expertise in Consumer Banking Analytics, supplemented by additional experience as a research scholar and assistant engineer. Proficient in developing visually compelling dashboards using Power BI and Tableau to convey data-driven insights effectively. Skilled in utilizing analytical tools such as SAS, SQL, Python, and Excel to derive actionable intelligence. Experienced in automating reporting processes, mentoring colleagues, and delivering ad-hoc intelligence to facilitate informed decision-making. Passionate about leveraging data science to tackle and resolve complex business challenges. Eager to bring innovative and analytical approaches to leadership roles, consistently delivering impactful results.
-
+Dedicated Insights-Driven Analyst with over 1.5 years of specialized expertise in Consumer Banking Analytics. Proficient in developing visually compelling dashboards using Power BI and Tableau to convey data-driven insights effectively. Skilled in utilizing analytical tools such as SQL, Python, and Excel to derive actionable intelligence. Experienced in automating reporting processes, mentoring colleagues, and delivering ad-hoc intelligence to facilitate informed decision-making. Passionate about leveraging data science to tackle and resolve complex business challenges. Adept at collaborating with cross-functional teams to drive strategic initiatives and support data-informed business decisions. Eager to bring innovative and analytical approaches to leadership roles, consistently delivering impactful results.
 ---
 
 ## Professional Experience
