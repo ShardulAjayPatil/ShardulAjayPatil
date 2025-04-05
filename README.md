@@ -1,64 +1,75 @@
-# Shardul Patil
-
-### Bhopal, MP | [shanushardul@gmail.com](mailto:shanushardul@gmail.com) | +91 8223029505 | [LinkedIn](https://linkedin.com/patilshardul)
-
----
-
-## 👋 About Me
-
-Hi! I'm Shardul Patil, a passionate **Software Engineer** and **Python Developer** with hands-on experience in full-stack development, automation, and deployment. I thrive on solving complex problems and writing efficient, scalable code. I specialize in Python frameworks like **Django** and **Flask**, and I love to explore new technologies that can streamline processes and improve performance.
-
-Currently, I'm based in **Bhopal, MP**, and I’ve had the opportunity to work on some exciting projects as part of my journey in the software industry.
+# Shardul Patil  
+**Analyst**  
+Bhopal, Madhya Pradesh, India – 462023  
+📧 [shanushardul@gmail.com](mailto:shanushardul@gmail.com)  
+📞 +91 8223029505  
+🔗 [LinkedIn: patilshardul](https://www.linkedin.com/in/patilshardul/)  
 
 ---
 
-## 🛠 Skills
+## Summary
 
-- **Core Programming:** Python (Expert), SQL (Advanced), JavaScript (Intermediate), Bash (Intermediate)
-- **Frameworks & Libraries:** Django (Expert), Flask (Expert), FastAPI (Basic), Pandas (Advanced), NumPy (Advanced)
-- **Development Tools:** Git (Expert), Docker (Advanced), Selenium (Intermediate), JIRA (Advanced)
-- **Databases & Cloud Services:** MySQL (Advanced), MongoDB (Intermediate), AWS (Basic)
+Dedicated Insights-Driven Analyst with over 1.5 years of specialized expertise in Consumer Banking Analytics, supplemented by additional experience as a research scholar and assistant engineer. Proficient in developing visually compelling dashboards using Power BI and Tableau to convey data-driven insights effectively. Skilled in utilizing analytical tools such as SAS, SQL, Python, and Excel to derive actionable intelligence. Experienced in automating reporting processes, mentoring colleagues, and delivering ad-hoc intelligence to facilitate informed decision-making. Passionate about leveraging data science to tackle and resolve complex business challenges. Eager to bring innovative and analytical approaches to leadership roles, consistently delivering impactful results.
 
 ---
 
-## 🎓 Education
+## Professional Experience
 
-**Bachelor of Engineering** in **Electronics and Telecommunication**  
-Pune University, Pune, MH  
-**July 2018 - May 2022**
+### **Flynaut SaaS Pvt Ltd**  
+*Analyst*  
+_February 2024 – Present_  
+- Collaborated with the analytics team to support consumer banking initiatives by preparing performance reports and summarizing key KPIs for senior stakeholders.  
+- Developed visually compelling dashboards in Tableau, managing the entire process from wireframe design to backend data structure implementation.  
+- Revamped existing Power BI dashboards for enhanced storytelling.  
+- Wrote SQL queries and used Excel for customer segmentation and churn analysis.  
+- Automated weekly digital origination, revenue generation, and incentive payout reports.  
+- Participated in weekly review meetings, providing actionable insights for acquisition and retention strategies.  
+- Delivered ad-hoc intelligence and contributed to reducing manual reporting efforts by 30%.
 
-**Higher Secondary School** in **Science**  
-Central Board Of Secondary Education, Bhopal, MP  
-**April 2016 - May 2018**
+### **Pelican.ai (ACE Software Solutions Pvt Ltd), Mumbai**  
+*Trainee Software Engineer*  
+_March 2023 – March 2024_  
+- Revamped Tableau dashboards, improving clarity, interactivity, and executive-level storytelling.  
+- Conducted exploratory data analysis using Python and SQL to uncover customer behavior patterns.  
+- Assisted in preparing compliance-related reports and timely internal audit submissions.  
+- Automated weekly reports and reporting templates, improving reporting speed and consistency.  
+- Collaborated with product and marketing teams to align campaign performance metrics.
 
----
-
-## 💼 Experience
-
-**Software Engineer**  
-*Ace Software Solutions*  
-Mumbai, MH | **March 2023 - March 2024**
-
-- Designed, developed, tested, and maintained efficient Python code using the Django framework.
-- Actively managed the codebase using **Git** and collaborated with teams to ensure smooth development workflows.
-- Deployed and implemented multiple project modules, including comprehensive end-to-end testing in live production environments.
-- Automated Oracle database script installations and monitored server processes using cron jobs and shell scripts to ensure high reliability.
-
-**Intern Software Engineer**  
-*Cravita Technologies*  
-Pune, MH | **August 2022 - January 2023**
-
-- Contributed to Python-centric projects across the software development life cycle.
-- Gained extensive experience in Python module deployment, testing, and live production environment integration.
-
----
-
-## 🚀 Projects
-
-*(Coming Soon)*
+### **Cravita Technologies Pvt Ltd, Pune**  
+*Software Engineer Intern*  
+_August 2022 – January 2023_  
+- Prepared customer behavior reports using Excel and SQL.  
+- Assisted in data cleaning and transformation for marketing analysis.  
+- Developed basic Tableau dashboards for customer demographics and product preferences.
 
 ---
 
-Feel free to reach out to me via [email](mailto:shanushardul@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/patilshardul).
+## Education
 
-Thanks for visiting my profile!
+**Bachelor of Engineering in Electronics & Telecommunication Engineering**  
+_Savitribai Phule Pune University_  
+_July 2018 – June 2022_
+
+---
+
+## Key Skills
+
+### Technical Skills  
+- Data Science, Data Analytics, SQL, Python, Tableau, Power BI  
+- Machine Learning, Advanced Mathematics, Optimization Algorithms  
+- Numerical Analysis, Hypothesis Testing, Cluster Analysis  
+- Linear Modelling, Design of Experiments (DoE), Decision Trees  
+- Neural Networks, Deep Learning
+
+### Soft Skills  
+- Communication, Interpersonal Skills, Presentation
+
+---
+
+## Projects
+
+### **Financial Data Analysis and Forecasting**  
+- Analyzed financial datasets to identify trends and build predictive models for future performance.
+
+### **Customer Segmentation for Targeted Marketing**  
+- Performed cluster analysis on purchasing behavior and demographics to inform targeted strategies.
